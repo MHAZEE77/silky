@@ -1,3 +1,3 @@
-clone the repo  
-build the project  
-run the app  
+1. clone the repo  
+2. build the project  
+3. run the app  
